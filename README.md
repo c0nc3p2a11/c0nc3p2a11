@@ -23,8 +23,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 
 #### Follow me
