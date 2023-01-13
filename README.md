@@ -1,5 +1,3 @@
-
-
                 
 
                            __                                     ___             ___    ___      
@@ -12,7 +10,7 @@
                                                            \ \_\                                  
                                                             \/_/                          
 
-#### I am a QA engineer. Testing involves work on quality improvement, it's nice to look at a cool product and know that you've been working on it. I always pay attention to the quality of services and user friendliness.
+#### ISTQB certified QA engineer
 
 #### Languages and Tools
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
