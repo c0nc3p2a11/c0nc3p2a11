@@ -12,13 +12,21 @@
                                                            \ \_\                                  
                                                             \/_/                          
 
+#### I am a QA engineer. Testing involves work on quality improvement, it's nice to look at a cool product and know that you've been working on it. I always pay attention to the quality of services and user friendliness.
 
+#### Languages and Tools
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![Charles](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=charles)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools)
+![AndroidStudio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+#### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/c0ncep2all)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/oleg-kiselev-qa)
