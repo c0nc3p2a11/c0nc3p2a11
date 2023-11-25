@@ -27,5 +27,5 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 
 #### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sssuperoleg
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sssuperoleg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/oleg-kiselev-qa)
